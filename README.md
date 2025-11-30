@@ -1,4 +1,4 @@
-<!-- ======================= PREMIUM README COVER ======================= -->
+<!-- ====================== PREMIUM README COVER ====================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7928ca&height=260&section=header&text=Amar%20Kumar&fontSize=54&fontColor=E0E0E0&fontWeight=bold" />
