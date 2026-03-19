@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Amar Singh
 
 ## 🚀 About Me
-- 👨‍💻 Name: Amar Singh
-- 🌐 Username: amarsingh-dev
+- 👨‍💻 Name: Amar kumar
+- 🌐 Username: amarkumar-hub
 - 📍 Location: Delhi, India
 - 🎓 Student | Aspiring Software Developer
 - 💻 Currently learning Java & Programming
