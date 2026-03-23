@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src=WhatsApp Image 2026-03-19 at 21.12.12.jpeg
+  <img src=WhatsApp.jpeg
        width="180"
        style="border-radius:50%; border:4px solid #7928ca;" />
 </p>
