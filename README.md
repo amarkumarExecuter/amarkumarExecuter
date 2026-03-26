@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amar Singh
+# 👋 Hi, I'm Amar
 
 ## 🚀 About Me
 - 👨‍💻 Name: Amar kumar
