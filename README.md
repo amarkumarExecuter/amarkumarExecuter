@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 👨‍💻 Name: Amar kumar
-- 🌐 Username: amarkumar-hub
+- 🌐 Username: amarkumarExecuter
 - 📍 Location: Delhi, India
 - 🎓 Student | Aspiring Software Developer
 - 💻 Currently learning Java & Programming
@@ -45,7 +45,7 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/amar-kumar-a698a332a" target="_blank">
+  <a href="https://www.linkedin.com/in/amar-kumar-executer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -67,9 +67,9 @@
 +Student & Frontend Developer focusing on modern UI/UX, animations, and dark-themed web apps.
 +Always exploring new tools and improving my development skills.
 +Google Search Identity
-+Amar Singh Developer  
-+Amar Singh Delhi  
-+amarsingh-dev GitHub  
++Amar kumar Developer  
++Amar kumar Delhi  
++amarkumarExecuter GitHub  
 
 ---
 
