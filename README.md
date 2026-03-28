@@ -42,10 +42,34 @@ I’m **Amar Kumar**, a **Software Developer** passionate about building scalabl
 ---
 
 
-## 🛠️ Skills
-- Java ☕
-- Basic Programming
-- Problem Solving
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AmanC77&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amarkumarexecuter&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amarkumarexecuter&theme=tokyonight" width="100%"/>
+  <img src="https://streak-stats.demolab.com/?user=AmanC77&theme=tokyonight&hide_border=false" width="100%"/>
+</div>
+
+---
+
+
+
+
+## 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 ---
 
