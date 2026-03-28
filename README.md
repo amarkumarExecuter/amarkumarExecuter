@@ -9,9 +9,9 @@
 
 ---
 
-## 🎯 About Me <img align="right" src="https://komarev.com/ghpvc/?username=AmanC77&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+## 🎯 About Me <img align="right" src="https://komarev.com/ghpvc/?username=amarkumarExecuter&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
-I’m **Aman Kumar**, a **Software Developer** passionate about building scalable web applications and exploring the power of **AI and Machine Learning**.
+I’m **Amar Kumar**, a **Software Developer** passionate about building scalable web applications and exploring the power of **AI and Machine Learning**.
 
 💻 **Tech Stack:** React, JavaScript, Node.js, Express, MongoDB, REST APIs  
 🤖 **
